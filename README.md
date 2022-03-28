@@ -1,4 +1,4 @@
-**# Dynamic Team Bio**
+# Dynamic Team Bio*
 
 Create a Team Bio page based on your partners for the Integrated Project. You’ll have some
 standard team copy on the page initially (written by you); provide a way to click and change
@@ -8,7 +8,7 @@ If you’re working alone, create a fake partner for this assignment.
 This is a small team assignment with designer and developer roles.
 <hr>
 
-**## Assignment Requirements**
+## Assignment Requirements
 
 Design a bio page! Consider this a page in the context of a larger studio site - look at how “real” design / dev houses do this, and come up with your own style.
 
@@ -20,7 +20,7 @@ responsible for populating this array with text - add your own! You’ll be retr
 
 You will also include a headline for the team member’s name that will change based on whose info is currently active. Include an image tag that switches its source based on the team member you’re viewing (head shot or something similar).
 
-**## Assignment Requirements**
+## Assignment Requirements
 
 1. Include a written plan / path with your submission. Analyze the requirements and provide the solution
 
@@ -32,13 +32,13 @@ You will also include a headline for the team member’s name that will change b
    
 5. Merge everything to the main branch and submit a link to the dropbox on FOL - a .txt file is fine
 
-**## Required Technology**
+## Required Technology
 
 1. HTML
 2. CSS
 3. JavaScript
 
-**## Contributing**
+## Contributing
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -46,9 +46,9 @@ You will also include a headline for the team member’s name that will change b
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-**## Credits**
+## Credits
 
 * Kim, Hyeongtae: [eugene-h-kim](https://github.com/eugene-h-kim)
 
-**## License**
+## License
 MIT
