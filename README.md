@@ -1,4 +1,4 @@
-# Dynamic Team Bio*
+# Dynamic Team Bio
 
 Create a Team Bio page based on your partners for the Integrated Project. You’ll have some
 standard team copy on the page initially (written by you); provide a way to click and change
@@ -20,7 +20,7 @@ responsible for populating this array with text - add your own! You’ll be retr
 
 You will also include a headline for the team member’s name that will change based on whose info is currently active. Include an image tag that switches its source based on the team member you’re viewing (head shot or something similar).
 
-## Assignment Requirements
+## Additional Requirements
 
 1. Include a written plan / path with your submission. Analyze the requirements and provide the solution
 
@@ -29,7 +29,7 @@ You will also include a headline for the team member’s name that will change b
 3. Create a design branch; the designer will push the web assets to this branch. The designer is responsible for the HTML and CSS for the project
 
 4. Create a dev branch for each member; BOTH need to add bio information to the array
-   
+
 5. Merge everything to the main branch and submit a link to the dropbox on FOL - a .txt file is fine
 
 ## Required Technology
