@@ -7,9 +7,9 @@
       houseName = document.querySelector('.teamMemberName');
 
    const houseInfo = [
-      ["Eugene Kim", `Eugene Kim was born in Seoul, South Korea, and he loves cats, baseball, books, history, movies, drawing, and travelling around the world.
-      He came over to Canada in 2020 to horn up-to-date design skills in order to fulfil his true creative passion and resume his career in a creative field.
-      Rather than staying in a stable place, he enjoys learning new things and never stops challenging himself to grow further. Especially he is interested in a new wave of technology such as Virtual Reality, 3D Motion Graphics, VFX, Web Development, and NFT.
+      ["Eugene Kim", `Eugene Kim was born in Seoul, South Korea, and lives in London ON with his wife. He loves cats, baseball, books, history, movies, drawing, and travelling around the world.
+      He came over to Canada in 2020 to hone up-to-date design skills in order to fulfil his true creative passion and resume his career in a creative field.
+      Rather than staying in a stable place, he enjoys learning new things and never stops challenging himself to grow further. He is especially interested in a new wave of technology such as Virtual Reality, 3D Motion Graphics, VFX, Web Development, and NFT.
       `],
       ["Deadpool", `Deadpool is a fictional character appearing in American comic books published by Marvel Comics. Deadpool, whose real name is Wade Winston Wilson, is a disfigured mercenary with the superhuman ability of regeneration and physical prowess. The character is known as the "Merc with a Mouth" because of his tendency to talk and joke constantly, including breaking the fourth wall for humorous effect and running gags.
       `],
